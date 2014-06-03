@@ -1,0 +1,13 @@
+{
+  "name": "node-orm-roundup",
+  "version": "0.0.0",
+  "description": "A roundup of different Node.js ORM libraries for modelling a particular Postgres use case",
+  "dependencies": {
+    "bookshelf": "^0.6.10",
+    "jugglingdb": "^0.2.14",
+    "jugglingdb-postgres": "0.0.4",
+    "knex": "^0.5.14",
+    "pg": "^3.2.0",
+    "sequelize": "^1.7.5"
+  }
+}
